@@ -1,0 +1,19 @@
+#burger {
+    font-size: 36px;
+    font-weight: bold;
+    text-decoration: none;
+    background-color: cadetblue;
+    color: white;
+    padding: 6px 16px;
+    border-radius: 30px;
+}
+
+.menu {
+    position: relative;
+    background-color: cadetblue;
+    color: white;
+    font-size: 20px;
+    width: 300px;
+    height: 100vh;
+    left: -320px;
+}
